@@ -1,0 +1,100 @@
+{
+  "dht11": [
+    {
+      "humidity": 71,
+      "temperature": 29.5,
+      "ip": "192.168.0.164",
+      "id": 1
+    },
+    {
+      "humidity": 71,
+      "temperature": 29.60000038,
+      "ip": "192.168.0.164",
+      "id": 2
+    },
+    {
+      "humidity": 71,
+      "temperature": 29.60000038,
+      "ip": "192.168.0.164",
+      "id": 3
+    },
+    {
+      "humidity": 71,
+      "temperature": 29.60000038,
+      "ip": "192.168.0.164",
+      "id": 4
+    },
+    {
+      "humidity": 70,
+      "temperature": 29.60000038,
+      "ip": "192.168.0.164",
+      "id": 5
+    },
+    {
+      "humidity": 70,
+      "temperature": 29.5,
+      "ip": "192.168.0.164",
+      "id": 6
+    },
+    {
+      "humidity": 70,
+      "temperature": 29.5,
+      "ip": "192.168.0.164",
+      "id": 7
+    },
+    {
+      "humidity": 70,
+      "temperature": 29.5,
+      "ip": "192.168.0.164",
+      "id": 8
+    },
+    {
+      "humidity": 71,
+      "temperature": 29.5,
+      "ip": "192.168.0.164",
+      "id": 9
+    },
+    {
+      "humidity": 71,
+      "temperature": 29.5,
+      "ip": "192.168.0.164",
+      "id": 10
+    },
+    {
+      "humidity": 71,
+      "temperature": 29.5,
+      "ip": "192.168.0.164",
+      "id": 11
+    },
+    {
+      "humidity": 71,
+      "temperature": 29.5,
+      "ip": "192.168.0.164",
+      "id": 12
+    },
+    {
+      "humidity": 71,
+      "temperature": 29.5,
+      "ip": "192.168.0.164",
+      "id": 13
+    },
+    {
+      "humidity": 71,
+      "temperature": 29.5,
+      "ip": "192.168.0.164",
+      "id": 14
+    },
+    {
+      "humidity": 71,
+      "temperature": 29.5,
+      "ip": "192.168.0.164",
+      "id": 15
+    },
+    {
+      "humidity": 71,
+      "temperature": 29.5,
+      "ip": "192.168.0.164",
+      "id": 16
+    }
+  ]
+}
